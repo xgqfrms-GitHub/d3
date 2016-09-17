@@ -2,17 +2,17 @@
 
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
-**D3** (or **D3.js**) 是一个基于Web标准的JavaScript库，用于数据可视化。. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
+**D3** (or **D3.js**) 是一个基于Web标准的JavaScript库，用于数据可视化。D3帮助你使用SVG，Canvas和HTML将数据带到生活中。D3以数据驱动的方式操作DOM，结合了功能强大的可视化和互动技术，让你使用现代浏览器全部功能，自由的为你的数据设计合适的可视化界面。
 
-## Resources
+## 资源
 
-* [API Reference](https://github.com/d3/d3/blob/master/API.md)
-* [Release Notes](https://github.com/d3/d3/releases)
-* [Gallery](https://github.com/d3/d3/wiki/Gallery)
-* [Examples](http://bl.ocks.org/mbostock)
+* [API 参考](https://github.com/d3/d3/blob/master/API.md)
+* [发行 说明](https://github.com/d3/d3/releases)
+* [画廊](https://github.com/d3/d3/wiki/Gallery)
+* [范例](http://bl.ocks.org/mbostock)
 * [Wiki](https://github.com/d3/d3/wiki)
 
-## Installing
+## 安装
 
 If you use npm, `npm install d3`. Otherwise, download the [latest release](https://github.com/d3/d3/releases/latest). The released bundle supports anonymous AMD, CommonJS, and vanilla environments. You can load directly from [d3js.org](https://d3js.org), [CDNJS](https://cdnjs.com/libraries/d3), or [unpkg](https://unpkg.com/d3/). For example:
 
