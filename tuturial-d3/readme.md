@@ -1,7 +1,9 @@
 # tutorial D3 
 
-# [video](https://egghead.io/lessons/d3-get-started-with-d3?play=yes)
+## [video](https://egghead.io/lessons/d3-get-started-with-d3?play=yes)
 
+
+### js code
 ```js
 var dataset = [ 5, 10, 15, 20, 25, 30, 35];
 
@@ -13,7 +15,8 @@ var dataset = [ 5, 10, 15, 20, 25, 30, 35];
 		  .style('height',function(d){
 		  	return d*7 + 'px';
 		  });
-```
+```  
+### scss(sass) code
 ```scss
 section{
 			padding-top: 50px;
@@ -28,8 +31,8 @@ section{
 			margin-right: 2px;
 			background: teal;
 		}
-```
-
+```  
+### html5 code
 ```html
 <!DOCTYPE html>
 <html lang="en">
