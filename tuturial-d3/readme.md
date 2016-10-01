@@ -71,7 +71,7 @@ section{
 	<script src="../lib/d3/d3.v4.min.js"></script>
 	<script src="../lib/d3/d3-selection.v1.js"></script>
 	<script>
-		var dataset = [ 5, 10, 15, 20, 25, 30, 35];
+		var dataset = [ 5, 10, 15, 20, 25, 30, 35];//base px
 
 		d3.select('section').selectAll('div')
 		  .data(dataset)
@@ -79,7 +79,7 @@ section{
 		  .append('div')
 		  .attr('class','bar')
 		  .style('height',function(d){
-		  	return d*7 + 'px';
+		  	return d*7 + 'px';//base*n px
 		  });
 	</script>
 </body>
