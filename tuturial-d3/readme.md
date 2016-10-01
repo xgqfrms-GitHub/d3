@@ -2,6 +2,8 @@
 
 ## [video](https://egghead.io/lessons/d3-get-started-with-d3?play=yes)
 
+### demo
+![d3-demo01.PNG](d3-demo01.PNG)
 
 ### js code
 ```js
