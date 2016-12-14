@@ -1,5 +1,15 @@
 # D3 + highlight
 
+
+# C3  
+
+https://github.com/xgqfrms-GitHub/c3/tree/gh-pages/Tutorials  
+
+
+
+
+
+
 ## gist code
 
 http://bl.ocks.org/-/about
